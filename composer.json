@@ -1,0 +1,29 @@
+{
+    "name": "kraksoft/fitvids",
+    "description": "A lightweight, easy-to-use jQuery plugin for fluid width video embeds.",
+    "keywords": [
+        "fitvids"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Coyier"
+        },
+        {
+            "name": "Paravel"
+        }
+    ],
+    "homepage": "http://fitvidsjs.com/",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "0.0.*"
+    },
+    "extra": {
+        "component": {
+            "name": "fitvids",
+            "files": [
+                "jquery.fitvids.js"
+            ]
+        }
+    }
+}
