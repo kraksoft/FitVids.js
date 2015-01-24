@@ -22,7 +22,8 @@
         "component": {
             "name": "fitvids",
             "files": [
-                "jquery.fitvids.js"
+                "jquery.fitvids.js",
+                "jquery.fitvids.min.js"
             ]
         }
     }
